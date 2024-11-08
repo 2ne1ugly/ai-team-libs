@@ -1,6 +1,7 @@
 # ai-team-libs
 - npm deps 가져올때는 [npm-deep-pack](https://www.npmjs.com/package/@tar-erpedia/deep-pack) 사용 바람
 - 11월 16일 전달 예정
+- lfs는 한도가 있어서 지양
 
 <br/>
 
