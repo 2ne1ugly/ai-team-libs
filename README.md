@@ -15,3 +15,4 @@
 - NextUI (@nextui-org/theme,@nextui-org/system,@nextui-org/react)
 - framer-motion
 - recharts
+- react-icons
