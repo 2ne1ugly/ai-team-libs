@@ -1,0 +1,2 @@
+tslib@2.8.1
+framer-motion@latest
