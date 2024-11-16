@@ -1,0 +1,2 @@
+@vue/devtools-api@6.6.4
+vue-router@latest

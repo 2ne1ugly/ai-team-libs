@@ -1,0 +1,1 @@
+@vitest/eslint-plugin@latest
