@@ -7,7 +7,7 @@
 
 ## NPM 라이브러리 현황
 
-### 11/11
+### 11/11 (완료)
 - zod
 - react-hook-form(@hookform/resolvers)
 - react-toastify
