@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Nov 16 11:43:28 KST 2024
+activemq-client-5.16.7-sources.jar>central=
+activemq-client-5.16.7.jar>central=
+activemq-client-5.16.7.pom>central=

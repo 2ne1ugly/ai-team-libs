@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Nov 16 11:54:32 KST 2024
+jline-3.24.1-sources.jar>central=
+jline-3.24.1.jar>central=
+jline-3.24.1.pom>central=

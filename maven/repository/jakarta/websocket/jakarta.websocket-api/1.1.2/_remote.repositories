@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Nov 16 11:43:44 KST 2024
+jakarta.websocket-api-1.1.2-sources.jar>central=
+jakarta.websocket-api-1.1.2.jar>central=
+jakarta.websocket-api-1.1.2.pom>central=
