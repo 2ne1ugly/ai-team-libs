@@ -1,4 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
 #Sun Nov 17 19:54:44 KST 2024
-https\://repo.maven.apache.org/maven2/.error=
-https\://repo.maven.apache.org/maven2/.lastUpdated=1731840884150
+javapoet-1.13.0-sources.jar>central=
+javapoet-1.13.0.jar>central=
+javapoet-1.13.0.pom>central=
