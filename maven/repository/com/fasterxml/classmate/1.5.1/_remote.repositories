@@ -1,5 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sat Nov 16 11:43:37 KST 2024
-classmate-1.5.1-sources.jar>central=
-classmate-1.5.1.jar>central=
+#Mon Nov 25 02:51:18 GMT 2024
 classmate-1.5.1.pom>central=
+classmate-1.5.1.jar>central=
+classmate-1.5.1-sources.jar>central=

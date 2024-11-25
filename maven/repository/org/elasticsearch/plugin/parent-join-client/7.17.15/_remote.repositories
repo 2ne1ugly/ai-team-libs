@@ -1,5 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sat Nov 16 11:43:34 KST 2024
-parent-join-client-7.17.15-sources.jar>central=
-parent-join-client-7.17.15.jar>central=
+#Mon Nov 25 02:51:13 GMT 2024
 parent-join-client-7.17.15.pom>central=
+parent-join-client-7.17.15.jar>central=
+parent-join-client-7.17.15-sources.jar>central=

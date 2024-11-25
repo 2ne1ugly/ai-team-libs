@@ -1,5 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sat Nov 16 11:43:29 KST 2024
+#Mon Nov 25 02:51:06 GMT 2024
 amqp-client-5.14.3-sources.jar>central=
-amqp-client-5.14.3.jar>central=
 amqp-client-5.14.3.pom>central=
+amqp-client-5.14.3.jar>central=
