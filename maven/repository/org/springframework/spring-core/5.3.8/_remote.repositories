@@ -1,5 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
 #Mon Nov 25 03:32:54 GMT 2024
-commons-compress-1.20.jar>central=
-commons-compress-1.20-sources.jar>central=
-commons-compress-1.20.pom>central=
+spring-core-5.3.8.jar>central=
+spring-core-5.3.8.pom>central=
+spring-core-5.3.8-sources.jar>central=
