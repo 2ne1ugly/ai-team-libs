@@ -1,8 +1,8 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Mon Nov 25 07:32:41 GMT 2024
-https\://repo.maven.apache.org/maven2/.lastUpdated=1732519959655
+#Tue Nov 26 07:25:56 GMT 2024
+https\://repo.maven.apache.org/maven2/.lastUpdated=1732605955528
 https\://www.jitpack.io/.error=
-https\://plugins.gradle.org/m2/.lastUpdated=1732519960531
-https\://www.jitpack.io/.lastUpdated=1732519961500
+https\://plugins.gradle.org/m2/.lastUpdated=1732605955673
+https\://www.jitpack.io/.lastUpdated=1732605956567
 https\://repo.maven.apache.org/maven2/.error=
 https\://plugins.gradle.org/m2/.error=
