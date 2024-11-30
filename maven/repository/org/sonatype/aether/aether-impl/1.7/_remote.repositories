@@ -1,4 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Nov 28 09:01:42 GMT 2024
+#Sat Nov 30 03:08:39 GMT 2024
 aether-impl-1.7.pom>central=
 aether-impl-1.7.jar>central=
+aether-impl-1.7-sources.jar>central=
