@@ -1,5 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sat Nov 16 11:43:36 KST 2024
-httpcore-nio-4.4.12-sources.jar>central=
-httpcore-nio-4.4.12.jar>central=
+#Mon Nov 25 02:51:15 GMT 2024
 httpcore-nio-4.4.12.pom>central=
+httpcore-nio-4.4.12.jar>central=
+httpcore-nio-4.4.12-sources.jar>central=

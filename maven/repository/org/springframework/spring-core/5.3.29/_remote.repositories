@@ -1,4 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sat Nov 16 11:39:36 KST 2024
-spring-core-5.3.29.jar>central=
+#Mon Nov 25 03:28:18 GMT 2024
+spring-core-5.3.29-sources.jar>central=
 spring-core-5.3.29.pom>central=
+spring-core-5.3.29.jar>central=

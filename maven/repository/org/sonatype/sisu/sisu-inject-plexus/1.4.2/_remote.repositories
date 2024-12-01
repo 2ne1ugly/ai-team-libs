@@ -1,3 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sat Nov 16 11:26:32 KST 2024
+#Sat Nov 30 03:08:40 GMT 2024
+sisu-inject-plexus-1.4.2.jar>central=
 sisu-inject-plexus-1.4.2.pom>central=
+sisu-inject-plexus-1.4.2-sources.jar>central=

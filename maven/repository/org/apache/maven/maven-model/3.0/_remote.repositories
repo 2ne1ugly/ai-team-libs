@@ -1,3 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sat Nov 16 11:26:32 KST 2024
+#Sat Nov 30 03:08:39 GMT 2024
+maven-model-3.0.jar>central=
+maven-model-3.0-sources.jar>central=
 maven-model-3.0.pom>central=

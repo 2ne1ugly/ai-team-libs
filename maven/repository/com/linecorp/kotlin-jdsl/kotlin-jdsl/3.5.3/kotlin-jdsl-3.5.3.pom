@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <!-- This module was also published with a richer model, Gradle metadata,  -->
+  <!-- which should be used instead. Do not delete the following line which  -->
+  <!-- is to indicate to Gradle or any Gradle module metadata file consumer  -->
+  <!-- that they should prefer consuming it instead. -->
+  <!-- do_not_remove: published-with-gradle-metadata -->
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.linecorp.kotlin-jdsl</groupId>
+  <artifactId>kotlin-jdsl</artifactId>
+  <version>3.5.3</version>
+  <name>kotlin-jdsl</name>
+  <description>Kotlin library that makes it easy to build and execute queries without generated metamodel.</description>
+  <url>https://github.com/line/kotlin-jdsl</url>
+  <licenses>
+    <license>
+      <name>The Apache License, Version 2.0</name>
+      <url>https://www.apache.org/licenses/LICENSE-2.0.txt</url>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <name>LY Corporation</name>
+      <email>dl_oss_dev@linecorp.com</email>
+      <url>https://engineering.linecorp.com/en/</url>
+    </developer>
+    <developer>
+      <id>shouwn</id>
+      <name>jonghyon.s</name>
+      <email>jonghyon.s@linecorp.com</email>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git@github.com:line/kotlin-jdsl.git</connection>
+    <developerConnection>scm:git:ssh://github.com:line/kotlin-jdsl.git</developerConnection>
+    <url>https://github.com/line/kotlin-jdsl</url>
+  </scm>
+  <dependencies>
+    <dependency>
+      <groupId>org.jetbrains.kotlin</groupId>
+      <artifactId>kotlin-stdlib</artifactId>
+      <version>1.9.22</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.junit.jupiter</groupId>
+      <artifactId>junit-jupiter</artifactId>
+      <version>5.10.0</version>
+      <scope>runtime</scope>
+      <optional>true</optional>
+    </dependency>
+    <dependency>
+      <groupId>io.mockk</groupId>
+      <artifactId>mockk</artifactId>
+      <version>1.13.7</version>
+      <scope>runtime</scope>
+      <optional>true</optional>
+    </dependency>
+    <dependency>
+      <groupId>org.assertj</groupId>
+      <artifactId>assertj-core</artifactId>
+      <version>3.24.2</version>
+      <scope>runtime</scope>
+      <optional>true</optional>
+    </dependency>
+  </dependencies>
+</project>

@@ -1,4 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sat Nov 16 11:23:32 KST 2024
-maven-shared-utils-3.4.2.jar>central=
+#Sat Nov 30 03:08:36 GMT 2024
 maven-shared-utils-3.4.2.pom>central=
+maven-shared-utils-3.4.2.jar>central=
+maven-shared-utils-3.4.2-sources.jar>central=
