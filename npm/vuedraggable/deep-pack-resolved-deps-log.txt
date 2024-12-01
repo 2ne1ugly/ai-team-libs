@@ -1,0 +1,2 @@
+sortablejs@1.14.0
+vuedraggable@4.1.0
