@@ -1,5 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sat Nov 30 03:08:50 GMT 2024
-maven-resources-plugin-3.3.1.pom>central=
+#Sat Dec 21 08:07:04 UTC 2024
 maven-resources-plugin-3.3.1.jar>central=
-maven-resources-plugin-3.3.1-sources.jar>central=
+maven-resources-plugin-3.3.1.pom>central=
