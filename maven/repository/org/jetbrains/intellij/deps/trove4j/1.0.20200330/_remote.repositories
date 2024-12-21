@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Dec 21 09:10:25 UTC 2024
+trove4j-1.0.20200330-sources.jar>gradle-plugins-repo=
+trove4j-1.0.20200330.jar>gradle-plugins-repo=
+trove4j-1.0.20200330.pom>gradle-plugins-repo=

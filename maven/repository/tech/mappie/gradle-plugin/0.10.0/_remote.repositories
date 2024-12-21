@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Dec 21 09:10:24 UTC 2024
+gradle-plugin-0.10.0-sources.jar>gradle-plugins-repo=
+gradle-plugin-0.10.0.jar>gradle-plugins-repo=
+gradle-plugin-0.10.0.pom>gradle-plugins-repo=
