@@ -1,2 +1,0 @@
-clsx@2.0.0
-class-variance-authority@latest

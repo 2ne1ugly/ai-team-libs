@@ -1,3 +1,0 @@
-@vue/devtools-api@6.6.4
-vue-demi@0.14.10
-pinia@latest

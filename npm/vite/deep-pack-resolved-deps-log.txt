@@ -1,8 +1,0 @@
-esbuild@0.21.5
-picocolors@1.1.1
-nanoid@3.3.7
-source-map-js@1.2.1
-postcss@8.4.49
-@types/estree@1.0.6
-rollup@4.27.2
-vite@latest
