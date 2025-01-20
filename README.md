@@ -1,14 +1,14 @@
 docker 커맨드
 ```sh
 helm repo add datahub https://helm.datahubproject.io/
-helm pull datahub/datahub-prerequisites
-helm pull datahub/datahub
+helm pull datahub/datahub-prerequisites --version 0.1.15
+helm pull datahub/datahub --version 0.5.1
 helm repo add bitnami https://charts.bitnami.com/bitnami
-helm pull bitnami/schema-registry
-helm pull bitnami/mysql
-helm pull bitnami/kafka
-helm pull bitnami/zookeeper
-helm pull bitnami/neo4j
+helm pull bitnami/schema-registry --version 23.1.1
+helm pull bitnami/mysql --version 12.2.1
+helm pull bitnami/kafka --version 31.2.0
+helm pull bitnami/zookeeper --version 13.7.2
+helm pull bitnami/neo4j --version 0.2.2
 
 docker pull --platform=linux/amd64 acryldata/datahub-gms:v0.15.0
 docker pull --platform=linux/amd64 acryldata/datahub-frontend-react:v0.15.0
