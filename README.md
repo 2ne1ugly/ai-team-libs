@@ -39,3 +39,5 @@ docker save -o zookeeper.tar bitnami/zookeeper:3.9.3
 docker save -o neo4j.tar bitnami/neo4j:5.26.1
 docker save -o librechat-rag-api-dev-lite.tar ghcr.io/danny-avila/librechat-rag-api-dev-lite:9e4bb52e15d97856e3b69653c88d2cf1bb34324f
 ```
+추가 vscode plugin
+https://github.com/prettier/prettier-vscode/releases/download/v11.0.0/prettier-vscode-11.0.0.vsix
