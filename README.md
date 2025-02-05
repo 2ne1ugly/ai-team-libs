@@ -5,6 +5,7 @@ pushd binaries
 wget https://cloud-images.ubuntu.com/wsl/jammy/20250203/ubuntu-jammy-wsl-amd64-ubuntu22.04lts.rootfs.tar.gz
 wget https://rpm.rancher.io/k3s/latest/common/centos/7/noarch/k3s-selinux-0.2-1.el7_8.noarch.rpm
 wget https://dl.fedoraproject.org/pub/epel/9/Everything/x86_64/Packages/i/iptables-legacy-1.8.10-4.1.el9.x86_64.rpm
+wget https://dl.fedoraproject.org/pub/epel/9/Everything/x86_64/Packages/i/iptables-legacy-libs-1.8.10-4.1.el9.x86_64.rpm
 pushd charts
 helm repo update
 helm pull bitnami/keycloak --version 24.4.8
